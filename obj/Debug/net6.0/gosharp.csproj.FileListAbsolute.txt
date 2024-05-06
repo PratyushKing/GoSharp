@@ -1,0 +1,15 @@
+/home/pratyush/Documents/gosharp/bin/Debug/net6.0/gosharp
+/home/pratyush/Documents/gosharp/bin/Debug/net6.0/gosharp.deps.json
+/home/pratyush/Documents/gosharp/bin/Debug/net6.0/gosharp.runtimeconfig.json
+/home/pratyush/Documents/gosharp/bin/Debug/net6.0/gosharp.dll
+/home/pratyush/Documents/gosharp/bin/Debug/net6.0/ref/gosharp.dll
+/home/pratyush/Documents/gosharp/bin/Debug/net6.0/gosharp.pdb
+/home/pratyush/Documents/gosharp/obj/Debug/net6.0/gosharp.csproj.AssemblyReference.cache
+/home/pratyush/Documents/gosharp/obj/Debug/net6.0/gosharp.GeneratedMSBuildEditorConfig.editorconfig
+/home/pratyush/Documents/gosharp/obj/Debug/net6.0/gosharp.AssemblyInfoInputs.cache
+/home/pratyush/Documents/gosharp/obj/Debug/net6.0/gosharp.AssemblyInfo.cs
+/home/pratyush/Documents/gosharp/obj/Debug/net6.0/gosharp.csproj.CoreCompileInputs.cache
+/home/pratyush/Documents/gosharp/obj/Debug/net6.0/gosharp.dll
+/home/pratyush/Documents/gosharp/obj/Debug/net6.0/ref/gosharp.dll
+/home/pratyush/Documents/gosharp/obj/Debug/net6.0/gosharp.pdb
+/home/pratyush/Documents/gosharp/obj/Debug/net6.0/gosharp.genruntimeconfig.cache

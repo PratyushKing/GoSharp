@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "qVDtTbUxNC2v80gTwQC/+5JIR9b0EfffqC5A/1MYfmRuET45HNkGxqXPBDrIM/4F+U9JvKl2oMCABFUKgfGFyA==",
+  "success": true,
+  "projectFilePath": "/home/pratyush/Documents/gosharp/gosharp.csproj",
+  "expectedPackageFiles": [
+    "/home/pratyush/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.29/microsoft.aspnetcore.app.ref.6.0.29.nupkg.sha512"
+  ],
+  "logs": []
+}

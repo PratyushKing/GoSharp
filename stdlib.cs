@@ -9,8 +9,8 @@ public class stdLib {
 
     }
 
-    public virtual void _runFuncFromStruct(LibCode code) {
-
+    public virtual object? _runFuncFromStruct(LibCode code) {
+        return null;
     }
 }
 
